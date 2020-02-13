@@ -5,6 +5,6 @@ digital virtual asssistant
 \n biography search from wikipedia
 
 
-\n  click project  file to execute
+\n  click project.py  file to execute
 \nif not google module show error plz update google module
 \nfor update google module cmd--     pip install google
