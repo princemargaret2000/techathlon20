@@ -62,11 +62,12 @@ def chrome(question):
     try:
       
       url=next(search(question))
-      
-      webbrowser.open(url)
       margaret_speak("opening  " + question)
+      webbrowser.open(url)
+      
     except:
-        margaret_speak("I can not search on google because I have a error in google module  ")
+        webbrowser.open(url)
+       
 
    
 
