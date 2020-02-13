@@ -66,7 +66,7 @@ def chrome(question):
       webbrowser.open(url)
       
     except:
-        webbrowser.open(url)
+        webbrowser.open(question)
        
 
    
