@@ -1,4 +1,5 @@
-# TECHATHLON '20
-# Hackathon 2020
-
-**PLEASE DO NOT PUSH TO MASTER**
+digital virtual asssistant
+play music online by music name in youtube without pressing
+data fetch from google search engine
+pcm related data search from wolframalpha 
+biography search from wikipedia
